@@ -1,1 +1,2 @@
-Unity Game Development with C# (2018-2019). For more details: https://teeradejlo2002.wixsite.com/bas-e-portfolio/capstone.
+Unity Game Development with C# (2018-2019).
+Gameplay: https://www.youtube.com/watch?v=khgWKFLZkFg.
